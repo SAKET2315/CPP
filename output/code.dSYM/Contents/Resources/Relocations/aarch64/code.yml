@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/saketsagu/Yt series/output/code'
+relocations:     []
+...
